@@ -1,0 +1,38 @@
+﻿  Lab 7.cpp
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(246,21): warning C4101: 'e': unreferenced local variable
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(193,1): message : while compiling class template member function 'void Derived<int>::addItem(T *)'
+          with
+          [
+              T=int
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(65,19): message : see reference to function template instantiation 'void Derived<int>::addItem(T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(29,25): message : see reference to class template instantiation 'Derived<int>' being compiled
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(104,22): warning C4101: 'e': unreferenced local variable
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(66,1): message : while compiling class template member function 'void List<int>::removeItem(T *)'
+          with
+          [
+              T=int
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(48,22): message : see reference to function template instantiation 'void List<int>::removeItem(T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(28,22): message : see reference to class template instantiation 'List<int>' being compiled
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(60,21): warning C4101: 'f': unreferenced local variable
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\List.h(26,1): message : while compiling class template member function 'void List<int>::addItem(T *)'
+          with
+          [
+              T=int
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\Lab 7\Lab 7.cpp(42,19): message : see reference to function template instantiation 'void List<int>::addItem(T *)' being compiled
+          with
+          [
+              T=int
+          ]
+  Lab 7.vcxproj -> C:\Fall Semester 2023\Data Structures\Labs\Lab 7\Lab 7\x64\Debug\Lab 7.exe
